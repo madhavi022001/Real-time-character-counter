@@ -15,7 +15,9 @@ body{
 }
 textarea{
     padding: 20px;
+    resize: none;
 }
+
 .div2 {
      display: flex;
      justify-content: space-between;
